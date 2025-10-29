@@ -1,6 +1,6 @@
 // ---------- SITE B CONFIG ----------
 
-    const siteBConfig = {
+    window.siteBConfig = {
 
     //   ...siteAConfig,
 
@@ -93,3 +93,4 @@
 
     };
  
+
